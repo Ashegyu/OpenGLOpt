@@ -1,0 +1,5 @@
+<UserControl x:Class="OpenGLOpt.Rendering.OpenTKControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- Content will be set programmatically with D3D11Image -->
+</UserControl>
