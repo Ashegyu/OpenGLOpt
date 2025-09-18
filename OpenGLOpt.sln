@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenGLOpt.WPF", "OpenGLOpt.WPF\OpenGLOpt.WPF.csproj", "{282D7625-98D6-4CE6-BF94-4C2364459406}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenGLOpt.Rendering", "OpenGLOpt.Rendering\OpenGLOpt.Rendering.csproj", "{F7A847ED-E14C-4F3F-B2D4-DBF1DFF94628}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenGLOpt.Interop", "OpenGLOpt.Interop\OpenGLOpt.Interop.csproj", "{043939F1-6E72-4B19-A319-BCDF5C01E2D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{282D7625-98D6-4CE6-BF94-4C2364459406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282D7625-98D6-4CE6-BF94-4C2364459406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282D7625-98D6-4CE6-BF94-4C2364459406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282D7625-98D6-4CE6-BF94-4C2364459406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A847ED-E14C-4F3F-B2D4-DBF1DFF94628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A847ED-E14C-4F3F-B2D4-DBF1DFF94628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A847ED-E14C-4F3F-B2D4-DBF1DFF94628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A847ED-E14C-4F3F-B2D4-DBF1DFF94628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{043939F1-6E72-4B19-A319-BCDF5C01E2D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043939F1-6E72-4B19-A319-BCDF5C01E2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043939F1-6E72-4B19-A319-BCDF5C01E2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043939F1-6E72-4B19-A319-BCDF5C01E2D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
